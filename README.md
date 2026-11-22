@@ -45,7 +45,6 @@ fhEVM is a technology that enables confidential smart contracts on the Ethereum 
 - [fhEVM Go by Zama](https://github.com/zama-ai/fhevm-go)
 
 ## Documentation
-
 - [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 
 - [Zama](https://docs.zama.ai/fhevm)
